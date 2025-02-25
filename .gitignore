@@ -1,2 +1,4 @@
-x.md
 /venv
+/model_checkpoints
+
+*.h5
